@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="26729" started-at="2020-04-30T06:47:26Z" finished-at="2020-04-30T06:47:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26729" started-at="2020-04-30T06:47:26Z" finished-at="2020-04-30T06:47:53Z">
+      <class name="test.java.webAutomation.SeleniumWebTestCase">
+        <test-method status="PASS" signature="fchromeCase()[pri:0, instance:test.java.webAutomation.SeleniumWebTestCase@511baa65]" name="fchromeCase" duration-ms="26521" started-at="2020-04-30T08:47:27Z" finished-at="2020-04-30T08:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fchromeCase -->
+      </class> <!-- test.java.webAutomation.SeleniumWebTestCase -->
+      <class name="test.java.practiseAutomation.TestNGPractice">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.java.practiseAutomation.TestNGPractice@39ba5a14]" name="beforeSuite" is-config="true" duration-ms="20" started-at="2020-04-30T08:47:26Z" finished-at="2020-04-30T08:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.java.practiseAutomation.TestNGPractice@39ba5a14]" name="beforeTest" is-config="true" duration-ms="1" started-at="2020-04-30T08:47:26Z" finished-at="2020-04-30T08:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.java.practiseAutomation.TestNGPractice@39ba5a14]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-04-30T08:47:26Z" finished-at="2020-04-30T08:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:test.java.practiseAutomation.TestNGPractice@39ba5a14]" name="f" duration-ms="1" started-at="2020-04-30T08:47:27Z" finished-at="2020-04-30T08:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.java.practiseAutomation.TestNGPractice@39ba5a14]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-04-30T08:47:53Z" finished-at="2020-04-30T08:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.java.practiseAutomation.TestNGPractice -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
